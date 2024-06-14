@@ -11,7 +11,7 @@
 [Redis](https://github.com/go-redis/redis) Type-safe Redis client for Golang<br/>
 [swag](https://github.com/swaggo/swag) Swagger for Go<br/>
 [Echo](https://github.com/labstack/echo) web framework<br/>
-[Kibana](https://github.com/labstack/echo) Kibana is user interface that lets you visualize your Elasticsearch<br/>
+[Kibana](https://github.com/elastic/kibana) Kibana is user interface that lets you visualize your Elasticsearch<br/>
 
 ### EventStoreDB UI:
 
